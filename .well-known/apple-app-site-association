@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["V35B347XSN.com.mauriziocavallo.atlasglasses"],
+        "components": [
+          { "/": "/*" }
+        ]
+      }
+    ]
+  }
+}
